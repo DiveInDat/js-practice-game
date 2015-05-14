@@ -1,0 +1,27 @@
+#input-1{
+  font-size: 28px;
+  height: 36px;
+  width: 50%;
+}
+
+/*Hide other slides to start*/
+#slide-2, #slide-3, #slide-4, #slide-5{
+  display: none;
+}
+
+.slide{
+  margin: 0;
+  padding: 20px 100px;
+  width: 100%;
+}
+
+/*Final slide styling*/
+#slide-3{
+  font-size: 30px;
+}
+/*This style will apply to any image inside the #slide-3 div*/
+#slide-3 img{
+  border: 10px inset gold;
+  display: block;
+  max-width: 300px;
+}
