@@ -1,5 +1,5 @@
 body{
-  background-color: green;
+  background-color: Grey;
 }
 #input-1{
   font-size: 28px;
@@ -25,7 +25,7 @@ body{
 }
 /*This style will apply to any image inside the #slide-3 div*/
 #slide-3 img{
-  border: 10px inset gold;
+  border: 10px inset black;
   display: block;
   max-width: 300px;
 }
