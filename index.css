@@ -32,7 +32,7 @@ background: radial-gradient(ellipse at center, rgba(180,221,180,1) 0%,rgba(131,1
 }
 /*This style will apply to any image inside the #slide-3 div*/
 #slide-3 img{
-  border: 10px inset gray;
+  border: 10px inset silver;
   display: block;
   max-width: 300px;
 }
