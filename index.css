@@ -1,7 +1,11 @@
+body{
+  background-color: green;
+}
 #input-1{
   font-size: 28px;
   height: 36px;
   width: 50%;
+  color: Blue;
 }
 
 /*Hide other slides to start*/
