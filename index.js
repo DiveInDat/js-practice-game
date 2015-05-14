@@ -55,3 +55,7 @@ b4.addEventListener("click", function(){
   //Show the next slide
   document.getElementById("slide-5").style.display = "block";
 });
+var a1 = new Audio("http://www.wav-sounds.com/cartoon/bugsbunny1.wav");
+submit.addEventListener("click", function(){
+  a1.play();
+});
