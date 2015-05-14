@@ -22,7 +22,7 @@ b1.addEventListener("click", function(){
   //Show the next slide
   document.getElementById("slide-3").style.display = "block";
   //Show the name in the final message
-  o2.innerHTML = "You've made the right choice for our community and our planet, " + name + "!"
+  o2.innerHTML = "You've made the right choice for that poor chicken. You serve your country proud! " + name + "!"
 });
 
 b2.addEventListener("click", function(){
