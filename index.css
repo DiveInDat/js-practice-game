@@ -45,5 +45,7 @@ h2{
 }
 label{
  color: Orange;
+ font-weight: bold;
+ width: 150px;
 }
 
