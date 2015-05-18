@@ -12,8 +12,10 @@ font-family: Lobster;
 }
 p{
   color: #00FF00;
+  font-size: 14px;
 }
 h2{
+  font-size: 24px;
   color: #00FF00;
 }
 #input-1{
