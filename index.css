@@ -23,8 +23,7 @@ h2{
 }
 h1{
  color: #00FFFF;
- position: Absolute;
- right: -150px;
+ text-align: center;
  font-size: 36px;
 }
 /*Hide other slides to start*/
