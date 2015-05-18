@@ -21,7 +21,11 @@ h2{
   width: 50%;
   color: Blue;
 }
-
+h1{
+ color: #00FFFF;
+ position: Absolute;
+ Right: 200px;
+}
 /*Hide other slides to start*/
 #slide-2, #slide-3, #slide-4, #slide-5{
   display: none;
