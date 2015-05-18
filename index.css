@@ -15,14 +15,12 @@ p{
   font-size: 14px;
 }
 h2{
-  font-size: 24px;
   color: #00FF00;
 }
 #input-1{
-  font-size: 28px;
-  height: 36px;
-  width: 50%;
-  color: Blue;
+  font-size: 30px;
+  height: 38px;
+  width: 65%%;
 }
 h1{
  color: #00FFFF;
@@ -54,5 +52,6 @@ label{
  color: #00FF00;
  font-weight: bold;
  width: 150px;
+ font-size: 12px;
 }
 
