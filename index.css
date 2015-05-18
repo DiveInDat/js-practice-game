@@ -43,3 +43,7 @@ h2{
   display: block;
   max-width: 300px;
 }
+label{
+ color: Orange;
+}
+}
