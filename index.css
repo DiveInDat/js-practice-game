@@ -10,10 +10,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', end
 
 }
 p{
-  color: Orange;
+  color: #00FF00;
 }
 h2{
-  color: Orange;
+  color: #00FF00;
 }
 #input-1{
   font-size: 28px;
@@ -48,7 +48,7 @@ h1{
   max-width: 300px;
 }
 label{
- color: Orange;
+ color: #00FF00;
  font-weight: bold;
  width: 150px;
 }
