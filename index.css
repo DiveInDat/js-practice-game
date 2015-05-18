@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Sigmar+One);
 body{
  background: rgb(240,183,161); /* Old browsers */
 background: -moz-radial-gradient(center, ellipse cover, rgba(240,183,161,1) 0%, rgba(140,51,16,1) 50%, rgba(117,34,1,1) 51%, rgba(191,110,78,1) 100%); /* FF3.6+ */
@@ -8,7 +8,7 @@ background: -o-radial-gradient(center, ellipse cover, rgba(240,183,161,1) 0%,rgb
 background: -ms-radial-gradient(center, ellipse cover, rgba(240,183,161,1) 0%,rgba(140,51,16,1) 50%,rgba(117,34,1,1) 51%,rgba(191,110,78,1) 100%); /* IE10+ */
 background: radial-gradient(ellipse at center, rgba(240,183,161,1) 0%,rgba(140,51,16,1) 50%,rgba(117,34,1,1) 51%,rgba(191,110,78,1) 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bf6e4e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-font-family: Lobster;
+font-family: Sigmar One;
 }
 p{
   color: #00FF00;
@@ -26,6 +26,8 @@ h1{
  color: #00FFFF;
  text-align: center;
  font-size: 50px;
+ text-shadow: 5px, 5px, #000000;
+ text-stroke-color: black;
 }
 /*Hide other slides to start*/
 #slide-2, #slide-3, #slide-4, #slide-5{
